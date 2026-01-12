@@ -103,7 +103,7 @@ export const artworks: Artwork[] = [
   {
     id: '10',
     title: 'lord Krishna',
-    category: 'drawings',
+    category: 'portraits',
     year: '2022',
     medium: 'colour on Paper',
     dimensions: '12" × 15"',
@@ -133,7 +133,7 @@ export const artworks: Artwork[] = [
   {
     id: '13',
     title: 'Virat Kohli',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -213,7 +213,7 @@ export const artworks: Artwork[] = [
   {
     id: '21',
     title: 'Boy',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -233,7 +233,7 @@ export const artworks: Artwork[] = [
   {
     id: '23',
     title: 'My Father',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -243,7 +243,7 @@ export const artworks: Artwork[] = [
   {
     id: '24',
     title: 'Friend',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -253,7 +253,7 @@ export const artworks: Artwork[] = [
   {
     id: '25',
     title: 'commissioned Portrait',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -263,7 +263,7 @@ export const artworks: Artwork[] = [
   {
     id: '26',
     title: 'School Teacher',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -273,7 +273,7 @@ export const artworks: Artwork[] = [
   {
     id: '27',
     title: 'Spider man',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
@@ -283,7 +283,7 @@ export const artworks: Artwork[] = [
   {
     id: '28',
     title: 'Harry potter',
-    category: 'drawings',
+    category: 'portraits',
     year: '2024',
     medium: 'Graphite on Paper',
     dimensions: '12" × 15"',
