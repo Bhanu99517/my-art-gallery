@@ -92,7 +92,7 @@ export const artworks: Artwork[] = [
   },
   {
     id: '9',
-    title: 'lord Shiva',
+    title: 'APJ Abdul Kalam',
     category: 'drawings',
     year: '2022',
     medium: 'Graphite on Paper',
