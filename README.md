@@ -32,21 +32,15 @@ A modern, interactive art gallery web application built with **Vite**, **TypeScr
 
 my-art-gallery/
 
-├── public/ # Static public assets
-
-├── src/ # Frontend source code
-
-├── supabase/ # Supabase config & migrations
-
-├── .env # Environment configs (ignored)
-
-├── package.json # Dependencies & scripts
-
-├── vite.config.ts # Vite config
-
-├── tailwind.config.ts # Tailwind config
-
-└── README.md # Project README
+  ```bash
+   ├── public/ # Static public assets
+   ├── src/ # Frontend source code
+   ├── supabase/ # Supabase config & migrations
+   ├── .env # Environment configs (ignored)
+   ├── package.json # Dependencies & scripts
+   ├── vite.config.ts # Vite config
+   ├── tailwind.config.ts # Tailwind config
+   └── README.md # Project README
 
 
 ---
