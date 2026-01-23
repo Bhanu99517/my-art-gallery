@@ -32,7 +32,7 @@ A modern, interactive art gallery web application built with **Vite**, **TypeScr
 
 my-art-gallery/
 
-  ```bash
+   ```bash
    ├── public/ # Static public assets
    ├── src/ # Frontend source code
    ├── supabase/ # Supabase config & migrations
