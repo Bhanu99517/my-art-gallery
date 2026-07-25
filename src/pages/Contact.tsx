@@ -111,8 +111,8 @@ const Contact = () => {
                     <div>
                       <h3 className="font-medium text-foreground mb-1">Studio Location</h3>
                       <p className="text-muted-foreground">
-                        Jawhar coloney<br />
-                        Ashok nagar, BHEL<br />
+                        Jawhar coloney,<br />
+                        Ameenpus, Ashok nagar<br />
                         Hyderabad, India
                       </p>
                     </div>
