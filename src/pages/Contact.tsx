@@ -129,7 +129,7 @@ const Contact = () => {
                         rel="noopener noreferrer"
                         className="text-muted-foreground hover:text-gold transition-colors break-all"
                       >
-                        bhanutechlab.vercel.app
+                        https://bhanutechlab.vercel.app
                       </a>
                     </div>
                   </div>
