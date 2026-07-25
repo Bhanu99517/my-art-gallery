@@ -3,7 +3,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { PaintingBackground } from '@/components/PaintingBackground';
 import { PageTransition } from '@/components/PageTransition';
-import { Mail, Phone, MapPin, Send, Loader2 } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, Loader2, Globe } from 'lucide-react';
 import { supabase } from '@/integrations/supabase/client';
 import { useToast } from '@/hooks/use-toast';
 
@@ -115,6 +115,22 @@ const Contact = () => {
                         Ashok nagar, BHEL<br />
                         Hyderabad, India
                       </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 rounded-full bg-gold/10 flex items-center justify-center flex-shrink-0">
+                      <Globe className="w-5 h-5 text-gold" />
+                    </div>
+                    <div>
+                      <h3 className="font-medium text-foreground mb-1">Website</h3>
+                      <a
+                        href="https://bhanutechlab.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-muted-foreground hover:text-gold transition-colors break-all"
+                      >
+                        bhanutechlab.vercel.app
+                      </a>
                     </div>
                   </div>
                 </div>
