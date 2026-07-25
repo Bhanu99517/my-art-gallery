@@ -13,6 +13,12 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      workbox: {
+        navigateFallback: '/index.html',
+        navigateFallbackDenylist: [/^\/api\//, /^\/functions\//],
+        cleanupOutdatedCaches: true,
+        clientsClaim: true,
+      },
       manifest: {
         name: 'Bhanu Art Gallery',
         short_name: 'Art Gallery',
